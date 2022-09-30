@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.stix {
+    margin: 60px 40px;
+}
+.heading {
+    font-weight: 900;
+    font-family: sans-serif;
+    color: rgb(0, 0, 100);
+    text-align: center;
+    font-size: 28px;
+    margin: 0;
+}
+.shadow {
+    margin-top: -35px;
+    margin-left: -4px;
+    color: rgb(0, 0, 255);
+}
+.grey-sec {
+    padding-top: 20px;
+    background: silver;
+    height: 600px;
+    
+}
+.sec1 {
+    padding: 30px;
+}
+
+.white-board {
+    background: white;
+    margin-left: 5em;
+    margin-right: 2em;
+    margin-top: 15px;
+    border-right: 5px double blue;
+}
